@@ -12,9 +12,9 @@ That's why I created this repo here to share the mods that I made, in the proces
 
 ### Removing the front mudguard
 
-The baby GS comes with the classic GS beaky look with a lower front mud guard that provides a better high speed motorway riding experience. However in very muddy condition the lower front mud guard can clog up with muds and stop the front wheel from spinning. This makes the bike unridable until the clearance is re-gained by removing the front mud guard. 
+The baby GS comes with the classic GS beaky look with a lower front mud guard that provides a better high speed motorway riding experience. However in very muddy condition the lower front mud guard can clog up with muds and stop the front wheel from spinning. This makes the bike unrideable until the clearance is re-gained by removing the front mud guard. 
 
-Below parts helps you to remove the front mud guard while still protecting the bike from being damaged:
+Below parts help you to remove the front mud guard while still providing protection for the vulnerable parts:
 
 #### Radiator Guard
 
@@ -24,11 +24,13 @@ Below parts helps you to remove the front mud guard while still protecting the b
 * __Printing Caveat:__ Use heat resistent material
 * [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_24/radiator%20guard.stl)
 
-What prevents most people front removing the front mud guard is that, rocks or sand blasting from the front wheel can damage the radiator fins. And most radiator guard you can buy on the market is a thin layer of metal that only protects against small rocks but not sand blasting.
+What prevents most people front removing the front mud guard is the rocks or sand blasting from the front wheel can damage the radiator fins. And all the after market radiator guards you can buy are just a thin layer of metal that only protect against small rocks but still allowing the sand particles to go through.
 
-If you look carefully, almost all the off road oriented bikes, including all the MX/enduro bikes and KTM 890 ADV and yamaha tenere 700, they all come with a radiator guard that consist of a series louvre blades. These blades not only protect against rocks but also sand blasting.
+If you look carefully, almost all the off road oriented bikes, including all the MX/enduro bikes and KTM 890 ADV and yamaha tenere 700, they all come equiped a stock radiator guard that consist of a series louvre blades. These blades not only protect against rocks but also sand blasting.
 
-![Stock Radiator Guard on tenere 700](./img/t7_radiator_guard.webp)
+Below are few examples:
+
+![Stock Radiator Guard on tenere 700](./img/t7_radiator_guard.jpg)
 
 _Stock Radiator Guard on tenere 700_
 
@@ -40,7 +42,7 @@ _Stock Radiator Guard on KTM 890 adv_
 
 _Almost all MX bikes have fitted with louvre blades_
 
-Our radiator guard trying to achieve the same by adding the louvre blades, you can also secure a piece of drain grill mesh on top of it with a ziptie to add some more protection against rocks.
+Our radiator guard tries to achieve the same by adding the louvre blades, you can also secure a piece of drain grill mesh on top of it with a ziptie to add some more protection against rocks.
 
 ![Radiator guard ziptie holes](./img/radiator_guard_ziptie_holes.jpg)
 
