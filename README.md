@@ -84,7 +84,7 @@ This brake riser replaces the top bit of [this cheap ebay brake extension](https
 
 Designing and testing motorbike mods are time consuming and costly, I had to print out the parts, install them on my bike, identify the problems and re-do the design and printing. Each time just the printing along cost me somewhere around £30 to £180. Also in the process I was risking breaking the parts on my bike.
 
-I know it's paying for my own habit, but if this project is helpful to you, please consider donate a little to help keep the project going.
+I know it's paying for my own habit, but if this project is helpful to you, please consider donate a little to help keeping the project going.
 
 __I accept ETH on:__
 
