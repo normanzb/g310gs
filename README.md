@@ -4,7 +4,7 @@
 
 Welcome to open source repo for all 3D parts that designed for making G310GS more off roady.
 
-Second hand G310GS on the market is a lot more affordable and more versatile then a brand new Honda CRF300L, but when it comes to greenlaning there are improvements to be done to make the baby GS more prepared for the technical terrans.
+Second hand G310GS on the market is a lot more affordable and more versatile then a brand new Honda CRF300L, but when it comes to greenlaning there are improvements to be done to make the baby GS more prepared for the technical terrain.
 
 That's why I created this repo here to share the mods that I made, in the process of improving my own G310GS.
 
@@ -18,7 +18,7 @@ Below parts helps you to remove the front mud guard while still protecting the b
 
 #### Radiator Guard
 
-![Norm's G310GS with mods](./img/radiator_guard.png)
+![Norm's G310GS with mods](./img/radiator_guard.jpg)
 
 * __Project status:__ Prototype Tested
 * __Printing Caveat:__ Use heat resistent material
@@ -32,27 +32,27 @@ If you look carefully, almost all the off road oriented bikes, including all the
 
 _Stock Radiator Guard on tenere 700_
 
-![Stock Radiator Guard on KTM 890 adv](./img/890adv_radiator_guard.jpeg)
+![Stock Radiator Guard on KTM 890 adv](./img/890adv_radiator_guard.jpg)
 
 _Stock Radiator Guard on KTM 890 adv_
 
-![Almost all MX bikes have fitted with louvre blades](./img/mx_bike_radiator_guard.jpeg)
+![Almost all MX bikes have fitted with louvre blades](./img/mx_bike_radiator_guard.jpg)
 
 _Almost all MX bikes have fitted with louvre blades_
 
 Our radiator guard trying to achieve the same by adding the louvre blades, you can also secure a piece of drain grill mesh on top of it with a ziptie to add some more protection against rocks.
 
-![Radiator guard ziptie holes](./img/radiator_guard_ziptie_holes.png)
+![Radiator guard ziptie holes](./img/radiator_guard_ziptie_holes.jpg)
 
 _We added holes on the radiator guard so that you can secure a piece of drain grill mesh with a ziptie on it_
 
-![Metal mesh](./img/metal_mesh.jpeg)
+![Metal mesh](./img/metal_mesh.jpg)
 
 _You can fit metal mesh from ebay to add some more protection_
 
 #### Right Front Fork Guard
 
-![Norm's G310GS with mods](./img/mud_guard_right.png)
+![Norm's G310GS with mods](./img/mud_guard_right.jpg)
 
 * __Project status:__ Prototype Tested
 * [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_24/mudguard%20alt%20right.stl)
@@ -60,7 +60,7 @@ _You can fit metal mesh from ebay to add some more protection_
 
 #### Left Front Fork Guard
 
-![Norm's G310GS with mods](./img/mud_guard_left.png)
+![Norm's G310GS with mods](./img/mud_guard_left.jpg)
 
 * __Project status:__ Fully Tested
 * [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_24/mudguard%20alt%20left.stl)
@@ -69,14 +69,14 @@ _You can fit metal mesh from ebay to add some more protection_
 
 #### Brake riser
 
-![Norm's G310GS with mods](./img/brake_riser.jpeg)
+![Norm's G310GS with mods](./img/brake_riser.jpg)
 
 * __Project status:__ Fully Tested
 * [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_24/brake%20riser.stl)
 
 This brake riser replaces the top bit of [this cheap ebay brake extension](https://www.ebay.co.uk/itm/384765039930?_trkparms=ispr%3D1&hash=item5995c8953a:g:sMEAAOSwG5piIaeH&amdata=enc%3AAQAGAAAA8HYUk%2BtJEiJvjREW2gZcTXGnK7oytC2VH4SUFmnNXlFIl8NIefNd1MWzZ2WOmM8PlnRj7bvQibiVS03FSIIvpIeS7W1RhDzucNHZkijui%2BVty%2ByEhm66sPcBbvrT15cXPAX817B0iiYRUVD4BebPqxqQ9QId2vmKfurddC3Lxid%2FxzFwh4PmLk56R3Qq9q5YsmEdF9bvr%2FiN7%2BjmKzK%2FSooQgLWpI44ooTX3dxLnwGCXtXkZtPRa%2F%2FGVSRQvufj2f47fXFOqGqGYe2uy5It6%2FVbCaGXo85wQ8YWuqt8OUKQlY%2Fp28bLnL5cxl4cigHiTfg%3D%3D%7Ctkp%3ABFBMpNiQy4tg):
 
-![Ebay brake extension](./img/ebay_brake_extension.jpeg)
+![Ebay brake extension](./img/ebay_brake_extension.jpg)
 
 ## Please Help!
 
