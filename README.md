@@ -8,6 +8,11 @@ Second hand G310GS on the market is a lot more affordable and more versatile the
 
 That's why I created this repo here to share the mods that I made, in the process of improving my own G310GS.
 
+## Disclaimer: Use at your own discretion
+
+Bike parts can be changed overtime or be completely different when it is sold in different region. The part in this repo might not fit straight to your bike.
+Authors of this repo do not responsible for any damage caused by the mods made to your property, vehicle or health.
+
 ## Mods
 
 ### Removing the front mudguard
