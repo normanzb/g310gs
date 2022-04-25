@@ -15,6 +15,8 @@ Authors of this repo do not responsible for any damage caused by the mods made t
 
 ## Mods
 
+[TLDR, take me to the STL files!](https://github.com/normanzb/g310gs/blob/master/release/22_04_24)
+
 ### Removing the front mudguard
 
 The baby GS comes with the classic GS beaky look with a lower front mud guard that provides a better high speed motorway riding experience. However in very muddy condition the lower front mud guard can clog up with muds and stop the front wheel from spinning. This makes the bike unrideable until the clearance is re-gained by removing the front mud guard. 
