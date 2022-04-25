@@ -15,7 +15,7 @@ Authors of this repo do not responsible for any damage caused by the mods made t
 
 ## Mods
 
-[TLDR, take me to the STL files!](https://github.com/normanzb/g310gs/blob/master/release/22_04_24)
+[TLDR, take me to the STL files!](https://github.com/normanzb/g310gs/blob/master/release/22_04_25)
 
 ### Removing the front mudguard
 
@@ -29,7 +29,7 @@ Below parts help you to remove the front mud guard while still providing protect
 
 * __Project status:__ Prototype Tested
 * __Printing Caveat:__ Use heat resistent material
-* [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_24/radiator%20guard.stl)
+* [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_25/radiator%20guard.stl)
 
 What prevents most people front removing the front mud guard is the rocks or sand blasting from the front wheel can damage the radiator fins. And all the after market radiator guards you can buy are just a thin layer of metal that only protect against small rocks but still allowing the sand particles to go through.
 
@@ -64,7 +64,7 @@ _You can fit metal mesh from ebay to add some more protection_
 ![Norm's G310GS with mods](./img/mud_guard_right.jpg)
 
 * __Project status:__ Prototype Tested
-* [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_24/mudguard%20alt%20right.stl)
+* [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_25/mudguard%20alt%20right.stl)
 
 
 #### Left Front Fork Guard
@@ -72,7 +72,7 @@ _You can fit metal mesh from ebay to add some more protection_
 ![Norm's G310GS with mods](./img/mud_guard_left.jpg)
 
 * __Project status:__ Fully Tested
-* [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_24/mudguard%20alt%20left.stl)
+* [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_25/mudguard%20alt%20left.stl)
 
 ### Better stand up posture
 
@@ -81,7 +81,7 @@ _You can fit metal mesh from ebay to add some more protection_
 ![Norm's G310GS with mods](./img/brake_riser.jpg)
 
 * __Project status:__ Fully Tested
-* [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_24/brake%20riser.stl)
+* [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/22_04_25/brake%20riser.stl)
 
 This brake riser replaces the top bit of [this cheap ebay brake extension](https://www.ebay.co.uk/itm/384765039930?_trkparms=ispr%3D1&hash=item5995c8953a:g:sMEAAOSwG5piIaeH&amdata=enc%3AAQAGAAAA8HYUk%2BtJEiJvjREW2gZcTXGnK7oytC2VH4SUFmnNXlFIl8NIefNd1MWzZ2WOmM8PlnRj7bvQibiVS03FSIIvpIeS7W1RhDzucNHZkijui%2BVty%2ByEhm66sPcBbvrT15cXPAX817B0iiYRUVD4BebPqxqQ9QId2vmKfurddC3Lxid%2FxzFwh4PmLk56R3Qq9q5YsmEdF9bvr%2FiN7%2BjmKzK%2FSooQgLWpI44ooTX3dxLnwGCXtXkZtPRa%2F%2FGVSRQvufj2f47fXFOqGqGYe2uy5It6%2FVbCaGXo85wQ8YWuqt8OUKQlY%2Fp28bLnL5cxl4cigHiTfg%3D%3D%7Ctkp%3ABFBMpNiQy4tg):
 
