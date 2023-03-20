@@ -19,7 +19,7 @@ Authors of this repo do not responsible for any damage caused by the mods made t
 
 ### Removing the front mudguard
 
-The baby GS comes with the classic GS beaky look with a lower front mud guard that provides a better high speed motorway riding experience. However in very muddy condition the lower front mud guard can clog up with muds and stop the front wheel from spinning. This makes the bike unrideable until the clearance is re-gained by removing the front mud guard. 
+The baby GS comes with the classic GS beaky look with a lower front mud guard that provides a better high speed riding experience. However in very muddy condition the lower front mud guard can clog up with muds and stop the front wheel from spinning. This makes the bike unrideable until the clearance is re-gained by removing the front mud guard. 
 
 Below parts help you to remove the front mud guard while still providing protection for the vulnerable parts:
 
