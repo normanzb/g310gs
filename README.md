@@ -2,7 +2,7 @@
 
 ![Norm's G310GS with mods](./img/g310gs_with_mods.jpg)
 
-Welcome to open source repo to my g310gs mods repo.
+Welcome to open source repo of my g310gs mods repo.
 
 Second hand G310GS on the market is a lot more affordable and more versatile then a brand new Honda CRF300L, however, when it comes to greenlaning there are improvements to be done to make the baby GS more prepared in the technical terrains.
 
