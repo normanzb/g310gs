@@ -10,7 +10,7 @@ Here you will find the mods that I made to improve my own g310gs to make it more
 
 ## Disclaimer: Use at your own discretion
 
-Bike parts can be changed overtime, they can also be completely different shape when it is sold in different region. The part in this repo might not fit straight to your bike.
+Bike parts can be changed overtime, they can also completely different in shape when it is sold in different region. The part in this repo might not fit straight to your bike.
 Authors of this repo do not responsible for any damage caused by the mods made to your property, vehicle or health.
 
 ## Mods
