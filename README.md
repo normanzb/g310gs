@@ -15,7 +15,7 @@ Authors of this repo do not responsible for any damage caused by the mods made t
 
 ## Mods
 
-[TLDR, take me to the STL files!](https://github.com/normanzb/g310gs/blob/master/release/23_03_20)
+--> __[TLDR, straight to the STL files!](https://github.com/normanzb/g310gs/blob/master/release/23_03_20)__ <--
 
 ### Removing the front mudguard
 
