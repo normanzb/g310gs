@@ -34,7 +34,7 @@ Below parts help you to remove the front mud guard while still providing protect
 
 Designing and testing motorbike mods are time consuming and costly, I had to print out the parts, install them on my bike, identify the problems and re-do the design and printing. Each time just the printing along cost me somewhere around £30 to £180. Also in the process I was risking breaking the parts on my bike.
 
-While I am happy to pay for my own habit, if you find this project is helpful, please consider donate a little to help keeping the project going.
+While I am happy to pay for my own habit, if you find this project helpful, please consider donate a little to keep the project going.
 
 __I accept ETH on:__
 
