@@ -2,11 +2,11 @@
 
 ![Norm's G310GS with mods](./img/g310gs_with_mods.jpg)
 
-Welcome to open source repo for all 3D parts that designed for making G310GS more off roady.
+Welcome to open source repo to my g310gs mods repo.
 
-Second hand G310GS on the market is a lot more affordable and more versatile then a brand new Honda CRF300L, but when it comes to greenlaning there are improvements to be done to make the baby GS more prepared for the technical terrain.
+Second hand G310GS on the market is a lot more affordable and more versatile then a brand new Honda CRF300L, however, when it comes to greenlaning there are improvements to be done to make the baby GS more prepared in the technical terrains.
 
-That's why I created this repo here to share the mods that I made, in the process of improving my own G310GS.
+Here you will find the mods that I made to improve my own g310gs to make it more capable off road.
 
 ## Disclaimer: Use at your own discretion
 
