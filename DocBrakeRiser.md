@@ -6,16 +6,12 @@ To secure it to the original brake pedal, use 4 2mm wide zipties and route them 
 
 ## Brake riser 15mm
 
-![Norm's G310GS with mods](./img/brake_riser.jpg)
-
 * __Project status:__ Fully Tested
 * [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/23_03_20/brake_riser_15mm_ziptie)
 
 15mm version works the best with sw motech footpegs in low position.
 
 ## Brake riser 25mm
-
-![Norm's G310GS with mods](./img/brake_riser.jpg)
 
 * __Project status:__ Fully Tested
 * [STL file preview and download](https://github.com/normanzb/g310gs/blob/master/release/23_03_20/brake_riser_25mm_ziptie)
