@@ -1,6 +1,6 @@
 # Norm's G310GS mods
 
-![Norm's G310GS with mods](./img/g310gs_with_mods.jpg)
+![Norm's G310GS with mods](./img/g310gs-top-of-hill.jpg)
 
 Welcome to open source repo of my g310gs mods repo.
 

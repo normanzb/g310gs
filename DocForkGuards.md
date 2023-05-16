@@ -2,7 +2,9 @@
 
 The latest fork guards are made to fit the rally raid level 2 suspension kit (2mm increase on the total length on the fork). they should work on the stock forks but might be a bit longer then what you wanted.
 
-[Click here for older version that fits stock fork better](https://github.com/normanzb/g310gs/blob/master/release/22_11_01/mudguard%20alt%20left.stl)
+![norx fork guards](/img/forkguards.jpg)
+
+[Click here for older version that fits stock fork better](https://github.com/normanzb/g310gs/blob/master/release/22_11_01/)
 
 
 ## Rally Raid Lvl2 Right Front Fork Guard
