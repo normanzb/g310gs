@@ -43,3 +43,7 @@ __I accept ETH on:__
 __Buy me a drink on paypal:__
 
 https://paypal.me/norx
+
+## Acknowleges
+
+Thanks for user `rcat` from g310rforum.com for the helps and feedbacks.
