@@ -4,8 +4,8 @@ The latest fork guards are made to fit the rally raid level 2 suspension kit (2m
 
 ## Caveats
 
-For the best result, please use SLS or MDF printer with PA12 Nylon material. 
-For the safety reason, please do check the sign of wear for the brake cable that run through the hoop on the left fork guard.
+* For the best result, please use SLS or MDF printer with PA12 Nylon material. 
+* For the safety reason, please do check the sign of wear for the brake cable that run through the hoop on the left fork guard.
 
 ![norx fork guards](/img/forkguards.jpg)
 
